@@ -17,7 +17,7 @@
 }
 #gridThree{
 background-color: aqua;
-border: 2px solid rgb(7, 255, 160);
+border: 2px solid greenyellow;
 border-radius: 10px;
 font-weight: bold;
 }
@@ -27,7 +27,7 @@ font-weight: bold;
   grid-template-columns: auto auto auto;
 }
 .one{
-  background-color: rgb(176, 250, 225);
+  background-color: lightskyblue;
   margin:1% 10% 0% ;
   border: rgb(43, 243, 166) solid 2px;
   border-radius: 10px;
@@ -37,7 +37,7 @@ font-weight: bold;
 }
 #oneA{
   margin: 5% 0% 5% 0%;
-  background-color: rgb(176, 250, 225);
+  background-color: lightskyblue;
   margin: 0% 33% 0%;
   width: 33%;
   border: rgb(43, 243, 166) solid 2px;
@@ -56,7 +56,7 @@ font-weight: bold;
   text-align: center;
   width: 120%;
   margin: 10px;
-  border: 2px solid purple;
+  border: 2px solid rebeccapurple;
   border-radius: 10px;
   background-color: rgb(252, 252, 49);
 }
@@ -65,7 +65,7 @@ font-weight: bold;
   text-align: center;
 }
 #gridFive{
-  background-color: rgb(241, 129, 148);
+  background-color: pink;
   color: white;
   text-align: center;
 }
@@ -78,14 +78,14 @@ font-weight: bold;
   grid-template-rows: auto auto auto;
 }
 #gridA{
-  background-color: rgb(78, 201, 78);
+  background-color: greenyellow;
   height: 100px;
   font-size: x-large;
   box-sizing: border-box;
   padding: 10px;
 }
 #gridB{
-  background-color: rgb(110, 175, 250);
+  background-color: lightskyblue;
   height: 100px;
   font-size: larger;
   box-sizing: border-box;
@@ -95,7 +95,7 @@ font-weight: bold;
   box-sizing: border-box;
   padding: 10px;
   height: 100px;
-  background-color: rgb(12, 119, 241);
+  background-color: lightskyblue;
   font-size: larger;
 }
 #gridD{
@@ -122,7 +122,7 @@ font-weight: bold;
   height: 120px;
 }
 #gridNine{
-  background-color: crimson;
+  background-color: tomato;
   text-align: center;
   margin-top: 3%;
   font-size: xx-large;
