@@ -2,11 +2,11 @@
   background-color: ghostwhite
   display: grid;
 }
-#gridOne{
+#gridone{
   background-image: linear-gradient(to left, red, green, yellow);
   text-align: center;
 }
-#gridTwo{
+#gridtwo{
   border: 2px solid red;
   background-color: dodgerblue;
   border-radius: 15px;
@@ -15,13 +15,13 @@
   padding-right: 30%;
   margin: 3% 13% ;
 }
-#gridThree{
+#gridthree{
 background-color: aqua;
 border: 2px solid greenyellow;
 border-radius: 10px;
 font-weight: bold;
 }
-.loremPs{
+.loremps{
   
   display: grid;
   grid-template-columns: auto auto auto;
@@ -32,7 +32,7 @@ font-weight: bold;
   border: rgb(43, 243, 166) solid 2px;
   border-radius: 10px;
 }
-#loremP{
+#loremp{
   display: grid;
 }
 #oneA{
@@ -43,7 +43,7 @@ font-weight: bold;
   border: rgb(43, 243, 166) solid 2px;
   border-radius: 10px;
 }
-#gridFour{
+#gridfour{
   margin: 5% 0% 5% 0%;
   justify-content: center;
   display: grid;
@@ -60,16 +60,16 @@ font-weight: bold;
   border-radius: 10px;
   background-color: rgb(252, 252, 49);
 }
-#gridPer{
+#grid{
   background-image: linear-gradient(to right,red,yellow,red);
   text-align: center;
 }
-#gridFive{
+#gridfive{
   background-color: pink;
   color: white;
   text-align: center;
 }
-#gridSix{
+#gridsix{
   align-items: center;
   display: grid;
   gap: 1%;
@@ -121,7 +121,7 @@ font-weight: bold;
   background-color: orange;
   height: 120px;
 }
-#gridNine{
+#gridnine{
   background-color: tomato;
   text-align: center;
   margin-top: 3%;
@@ -130,7 +130,7 @@ font-weight: bold;
 .und{
   text-decoration: underline;
 }
-.gr{
+.grd{
   color: white;
   text-decoration: bolder;
   text-align: justify;
